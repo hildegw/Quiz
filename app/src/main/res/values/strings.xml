@@ -1,6 +1,22 @@
 <resources>
     <string name="app_name">Fresh Water Quiz</string>
-    <string name="hint_river">river</string>
+    <string name="hint_river">Enter river name</string>
     <string name="score_button">score</string>
+    <string name="question1">Which is the world\'s largest river?</string>
+    <string name="question2">Where is the world\'s largest underwater cave"</string>
+    <string name="question3">Which of these lakes are in North America?</string>
+    <string name="question4">Which is the wettest place on earth?</string>
+    <string name="answer1">amazon</string>
+    <string name="answer2a">Ox Bel Ha</string>
+    <string name="answer2b">Pozzo del Merro</string>
+    <string name="answer2c">Mammoth Cave</string>
+    <string name="answer3a">Lake Constance</string>
+    <string name="answer3b">Lake Superior</string>
+    <string name="answer3c">Lake Victoria</string>
+    <string name="answer3d">Lake of the Woods</string>
+    <string name="answer4a">Hawaii</string>
+    <string name="answer4b">Cameroon</string>
+    <string name="answer4c">Alaska</string>
+    <string name="your_score">Your score is:</string>
 
 </resources>
